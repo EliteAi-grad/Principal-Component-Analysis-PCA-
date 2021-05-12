@@ -4,4 +4,5 @@ PCA considers a Coordinate transformation (i.e. a rotation) from the arbitrary a
 The central idea of PCA is in reducing the dimensionality of a data set consisting of a large number of interrelated variables while retaining variance of original dataset as much as possible.
 
 Website: https://eliteaihub.com/
+
 Blog: https://eliteai-coep.medium.com/the-math-behind-pca-principal-component-analysis-58486a38e455
